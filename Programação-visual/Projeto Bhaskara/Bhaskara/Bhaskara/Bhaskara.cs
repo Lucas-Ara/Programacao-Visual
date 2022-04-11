@@ -17,34 +17,43 @@ namespace Bhaskara
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void btCalcular_Click(object sender, EventArgs e)
         {
+            int a, b, c;
+            a = int.Parse(txtA.Text);
+            b = int.Parse(txtB.Text);
+            c = int.Parse(txtC.Text);
+            
+            if (a == 0)
+            {
+                MessageBox.Show("o valor do a não pode ser zero!!");
+                return;
+            }
 
-        }
+            double delta;
+            delta = (b * b) - 4 * a * c;
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
+            if (delta<0)
+            {
+                lbDelta.Text = "O delta é negativo: " + delta;
+                lbXP.Text = "Não é possivel calcular as raízes: ";
+                return;
+            }
 
-        }
+            double xP, xN;
+            xP = ((-b) + Math.Sqrt(delta)) / (2 * a);
+            xN = ((-b) - Math.Sqrt(delta)) / (2 * a);
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lbzero_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click_1(object sender, EventArgs e)
-        {
-
+            if (xP == xN)
+            {
+                lbXP.Text = lbXP.Text = "X' = X\" = " + xP;
+            }
+            else
+            {
+                lbDelta.Text = "Delta = " + delta;
+                lbXP.Text = "X' = " + xP;
+                lbXN.Text = "X\" = " + xN;
+            }
         }
     }
 }

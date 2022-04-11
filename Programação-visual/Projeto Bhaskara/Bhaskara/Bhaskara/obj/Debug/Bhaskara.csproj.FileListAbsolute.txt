@@ -1,0 +1,11 @@
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe.config
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\bin\Debug\Bhaskara.pdb
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\obj\Debug\Bhaskara.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\obj\Debug\Bhaskara.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\obj\Debug\Bhaskara.Bhaskara.resources
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\obj\Debug\Bhaskara.Properties.Resources.resources
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\obj\Debug\Bhaskara.csproj.GenerateResource.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\obj\Debug\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\obj\Debug\Bhaskara.exe
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Bhaskara\Bhaskara\Bhaskara\obj\Debug\Bhaskara.pdb
