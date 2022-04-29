@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
+
 
 namespace Projeto_Viagem
 {
@@ -68,6 +64,34 @@ namespace Projeto_Viagem
             return distancia / consumo;
         }
 
+        private void btFechar_Click(object sender, EventArgs e)
+        {
+            Dispose();
+        }
+
+        private void btExportar_Click(object sender, EventArgs e)
+        {
+            try {
+                SaveFileDialog save = new SaveFileDialog();
+                save.Filter = "Arquivo de Texto / *.txt";
+                save.FileName = "Relatorio_viagem.txt";
+                if (save.ShowDialog() == DialogResult.OK)
+                {
+                    StreamWriter sw = new StreamWriter(save.OpenFile());
+                    for (int i = 0; i < rtRelatorio.Lines.Length; i++)
+                    {
+                        sw.WriteLine(rtRelatorio.Lines[i]);
+                    }
+                    sw.Close();
+                    sw.Dispose();
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Ops... houve algum erro...!");
+            } 
+            
+        }
         private float calculaValorGastoCombustivel(float qtdLitros, float vCombustivel)
         {
             return qtdLitros * vCombustivel;

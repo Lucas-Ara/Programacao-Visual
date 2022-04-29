@@ -10,3 +10,15 @@ Y:\repositorios\4_manha\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.c
 Y:\repositorios\4_manha\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.exe
 Y:\repositorios\4_manha\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.pdb
 Y:\repositorios\4_manha\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.FrmRelatorio.resources
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.exe.config
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.exe
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.pdb
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.FrmPrincipal.resources
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.FrmRelatorio.resources
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.Properties.Resources.resources
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.GenerateResource.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.exe
+C:\Users\Lucas\OneDrive\Documentos\GitHub\Programacao-Visual\Programação-visual\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.pdb
